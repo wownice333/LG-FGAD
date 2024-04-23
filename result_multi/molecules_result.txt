@@ -1,0 +1,2 @@
+Average AUC:71.86$\pm$0.0
+Average F1:66.88$\pm$0.0

@@ -1,0 +1,4 @@
+Average AUC:81.83$\pm$0.0
+Average F1:76.0$\pm$0.0
+Average AUC:81.83$\pm$0.0
+Average F1:76.0$\pm$0.0
