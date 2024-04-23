@@ -40,7 +40,7 @@ If you use the code or find this repository useful for your research, please con
 @inproceedings{cai2024lgfgad,
   title={LG-FGAD: An Effective Federated Graph Anomaly Detection Framework},
   author={Jinyu Cai, Yunhe Zhang, Jicong Fan, See-Kiong Ng},
-  booktitle={The 33rd International Joint Conference on Artificial Intelligence (IJCAI-24)},
+  booktitle={Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI-24)},
   volume={},
   number={},
   pages={},
