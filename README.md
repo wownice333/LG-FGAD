@@ -34,7 +34,7 @@ The optional multi-datasets in this code include mix, biochem, molecules and sma
 
 ## Citation
 
-If you've found LG-FGAD useful for your research, please cite our paper as follows:
+If you use the code or find this repository useful for your research, please consider citing our paper:
 
 ```
 @inproceedings{cai2024lgfgad,
