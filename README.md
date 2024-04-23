@@ -1,7 +1,8 @@
-## LG-FGAD: An Effective Federated Graph Anomaly Detection Framework
-This is the official implementation of LG-FGAD: An Effective Federated Graph Anomaly Detection Framework.
+# LG-FGAD: An Effective Federated Graph Anomaly Detection Framework
 
-### Dependencies
+This is an implement of the LG-FGAD paper accepted by the 33rd International Joint Conference on Artificial Intelligence (IJCAI-24).
+
+## Dependencies
 
 - python 3.8, pytorch, torch-geometric, torch-sparse, numpy, scikit-learn, pandas
 
