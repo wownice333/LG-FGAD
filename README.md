@@ -34,7 +34,7 @@ The optional multi-datasets in this code include mix, biochem, molecules and sma
 
 ## Citation
 
-If you use the code or find this repository useful for your research, please consider citing our paper:
+If you use the code or find this repository useful for your research, please consider citing our paper.
 
 ```
 @inproceedings{cai2024lgfgad,
