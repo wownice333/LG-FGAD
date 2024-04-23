@@ -29,7 +29,7 @@ To train LG-FGAD without loading saved weight files
 
     python LG-FGAD_multiDS.py --data_group molecules --eval False
 
-The optional datasets in this code include mix, biochem, molecules and small.
+The optional multi-datasets in this code include mix, biochem, molecules and small.
 
 ## Citation
 
