@@ -4,6 +4,7 @@ import random
 import warnings
 
 import torch
+import numpy as np
 
 from Utils import setupGC
 from model.training import *
@@ -75,7 +76,7 @@ if __name__ == '__main__':
     parser.add_argument('--repeat', help='index of repeating;',
                         type=int, default=None)
     parser.add_argument('--data_group', help='specify the group of datasets',
-                        type=str, default='MUTAG')
+                        type=str, default='DD')
 
     parser.add_argument('--convert_x', help='whether to convert original node features to one-hot degree features',
                         type=bool, default=False)
@@ -102,7 +103,7 @@ if __name__ == '__main__':
     parser.add_argument("--clip_value", type=float, default=0.01,
                         help="lower and upper clip value for disc. weights")
     parser.add_argument('--eval', help='whether load the saved model to reproduce results',
-                        type=bool, default=False)
+                        type=bool, default=True)
 
     try:
         args = parser.parse_args()

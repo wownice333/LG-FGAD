@@ -7,6 +7,7 @@ import torch
 
 from Utils import setupGC
 from model.training import *
+import numpy as np
 
 warnings.filterwarnings("ignore")
 
