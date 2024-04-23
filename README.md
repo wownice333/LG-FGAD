@@ -31,6 +31,8 @@ To train LG-FGAD without loading saved weight files
 
 The optional datasets in this code include mix, biochem, molecules and small.
 
+## Citation
+
 If you've found LG-FGAD useful for your research, please cite our paper as follows:
 
 ```
