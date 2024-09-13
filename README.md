@@ -41,9 +41,7 @@ If you use the code or find this repository useful for your research, please con
   title={LG-FGAD: An Effective Federated Graph Anomaly Detection Framework},
   author={Jinyu Cai, Yunhe Zhang, Jicong Fan, See-Kiong Ng},
   booktitle={Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI-24)},
-  volume={},
-  number={},
-  pages={},
+  pages={3760--3769},
   year={2024}
 }
 ```
